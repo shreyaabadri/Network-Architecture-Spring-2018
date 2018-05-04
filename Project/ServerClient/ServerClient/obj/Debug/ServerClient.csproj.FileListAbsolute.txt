@@ -1,0 +1,10 @@
+c:\users\shreya\source\repos\ServerClient\ServerClient\bin\Debug\ServerClient.exe.config
+c:\users\shreya\source\repos\ServerClient\ServerClient\bin\Debug\ServerClient.exe
+c:\users\shreya\source\repos\ServerClient\ServerClient\bin\Debug\ServerClient.pdb
+c:\users\shreya\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.csprojResolveAssemblyReference.cache
+c:\users\shreya\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.Form1.resources
+c:\users\shreya\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.Properties.Resources.resources
+c:\users\shreya\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.csproj.GenerateResource.cache
+c:\users\shreya\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.csproj.CoreCompileInputs.cache
+c:\users\shreya\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.exe
+c:\users\shreya\source\repos\ServerClient\ServerClient\obj\Debug\ServerClient.pdb
